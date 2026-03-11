@@ -4,7 +4,8 @@ Repositorio con el paso a paso del laboratorio en clase de sistemas digitales
 
 Fundación Universitaria Compensar
 
-Estudiante:
+Estudiantes:
+Karol Vanessa Rojas Gil
 Kevin Alejandro Tacha Herrera
 
 ---
