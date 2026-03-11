@@ -48,14 +48,12 @@ Reconocer el funcionamiento de diferentes compuertas lógicas y analizar su comp
 <td align="center">
 
 <img src="imagenes/materiales2.jpeg" width="350"><br>
-<b>Imagen izquierda</b>
 
 </td>
 
 <td align="center">
 
 <img src="imagenes/materiales3.jpeg" width="350"><br>
-<b>Imagen derecha</b>
 
 </td>
 </tr>
