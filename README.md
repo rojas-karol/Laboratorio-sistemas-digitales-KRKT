@@ -44,7 +44,7 @@ Reconocer el funcionamiento de diferentes compuertas lógicas y analizar su comp
   
 
   <p align="center">
-  <img src="imagenes/materiales.jpeg" width="300">
+  <img src="imagenes/materiales.jpeg" width="450">
 </p>
 
 
