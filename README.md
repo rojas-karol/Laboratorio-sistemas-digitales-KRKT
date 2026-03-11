@@ -41,6 +41,7 @@ Reconocer el funcionamiento de diferentes compuertas lógicas y analizar su comp
 - Capacitores
 - Cables de conexión
 - Fuente de alimentación
+  
 
   <p align="center">
   <img src="imagenes/materiales.jpeg" width="500">
