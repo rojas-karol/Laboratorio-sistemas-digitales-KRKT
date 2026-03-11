@@ -1,7 +1,9 @@
 # Laboratorio-sistemas-digitales-KRKT
 Repositorio con el paso a paso del laboratorio en clase de sistemas digitales 
 # Laboratorio 1 - Sistemas Digitales
-
+---
+---
+---
 Fundación Universitaria Compensar
 
 Estudiantes:
