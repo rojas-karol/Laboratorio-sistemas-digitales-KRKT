@@ -89,6 +89,6 @@ El laboratorio permitió comprender el funcionamiento de los circuitos digitales
 
 ## Prueba imagen subir
 <p align="center">
-  <img src="imagenes/imagen_prueba_1.png" width="100">
+  <img src="imagenes/imagen_prueba_1.png" width="500">
 </p>
 
