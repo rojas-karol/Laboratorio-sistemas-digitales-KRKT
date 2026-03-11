@@ -81,3 +81,10 @@ El circuito logró generar una señal cuadrada con el tiempo esperado y permiti�
 ## Conclusiones
 
 El laboratorio permitió comprender el funcionamiento de los circuitos digitales y la aplicación de compuertas lógicas en la generación de señales.
+
+---
+
+#Prueba imagen subir
+
+![PruebaImagen](imagenes/imagen prueba 1.png)
+
