@@ -116,6 +116,9 @@ Pasos de Montaje:
 7. Se agregó una resistencia en serie con el LED para limitar la corriente.
 8. Se realizaron pruebas activando diferentes combinaciones de los interruptores para verificar el comportamiento de la compuerta.
 
+<p align="center">
+  <img src="imagenes/logica_and.png" width="500">
+</p>
 
 ---
 
