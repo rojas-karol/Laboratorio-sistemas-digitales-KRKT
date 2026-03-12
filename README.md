@@ -147,6 +147,21 @@ Pasos de Montajee:
 <img src="imagenes/compuerta_not.png" width="500">
 </p>
 
+Pasos de Montaje:
+
+1. Se conectó la fuente de alimentación de 5V a la protoboard.
+2. Se colocó el circuito integrado 74HC04 en la protoboard.
+3. Se conectaron los pines de alimentación del integrado a los rieles de energía.
+4. Se utilizó un interruptor del DIP switch como entrada lógica.
+5. La entrada se conectó al pin de entrada de una de las compuertas NOT.
+6. La salida de la compuerta se conectó a un LED para observar el resultado.
+7. Se agregó una resistencia limitadora para proteger el LED.
+8. Se verificó que cuando la entrada está en nivel alto el LED se apaga y cuando está en nivel bajo el LED se enciende.
+
+<p align="center">
+<img src="imagenes/logica_not.png" width="500">
+</p>
+
 ---
 
 ## Resultados
