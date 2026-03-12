@@ -99,6 +99,10 @@ Se realizaron pruebas para verificar:
 
 ---
 
+### Compuerta AND – Integrado 74HC08
+
+---
+
 ## Resultados
 
 El circuito logró generar una señal cuadrada con el tiempo esperado y permitió observar el comportamiento de las compuertas lógicas estudiadas.
