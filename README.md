@@ -122,6 +122,10 @@ Pasos de Montaje:
 
 ### Compuerta OR - Integrado 74HC32
 
+<p align="center">
+<img src="imagenes/compuerta_or.png" width="500">
+</p>
+
 
 ---
 
