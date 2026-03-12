@@ -126,6 +126,20 @@ Pasos de Montaje:
 <img src="imagenes/compuerta_or.png" width="500">
 </p>
 
+Pasos de Montajee:
+
+1. Se conectó la fuente de alimentación a la protoboard.
+2. Se colocó el circuito integrado 74HC32 en la protoboard.
+3. Se conectaron los pines de alimentación del integrado a los rieles de voltaje.
+4. Se configuraron dos interruptores del DIP switch como entradas lógicas.
+5. Cada interruptor se conectó a una de las entradas de la compuerta OR.
+6. La salida de la compuerta se conectó a un LED indicador.
+7. Se añadió una resistencia limitadora entre el LED y tierra.
+8. Se probaron diferentes combinaciones de entrada para comprobar el funcionamiento de la compuerta OR.
+
+<p align="center">
+<img src="imagenes/logica_or.png" width="500">
+</p>
 
 ---
 
