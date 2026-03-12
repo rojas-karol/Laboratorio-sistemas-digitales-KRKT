@@ -138,7 +138,7 @@ Pasos de Montajee:
 8. Se probaron diferentes combinaciones de entrada para comprobar el funcionamiento de la compuerta OR.
 
 <p align="center">
-<img src="imagenes/logica_or.png" width="500">
+ <img src="imagenes/logica_or.png" width="500">
 </p>
 
 ---
