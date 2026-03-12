@@ -101,6 +101,10 @@ Se realizaron pruebas para verificar:
 
 ### Compuerta AND – Integrado 74HC08
 
+<p align="center">
+<img src="imagenes/compuerta_and.png" width="500">
+</p>
+
 ---
 
 ## Resultados
