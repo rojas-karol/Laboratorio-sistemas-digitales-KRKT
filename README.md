@@ -109,6 +109,12 @@ Pasos de Montaje:
 
 1. Se conectó la fuente de alimentación de 5V a los rieles positivo y negativo de la protoboard.
 2. Se colocó el circuito integrado 74HC08 en el centro de la protoboard para separar las dos mitades del circuito.
+3. Se conectó el pin de alimentación del integrado al riel positivo y el pin de tierra al riel negativo.
+4. Se utilizó un módulo de interruptores DIP para representar las entradas lógicas A y B.
+5. Las salidas de los interruptores se conectaron a las entradas de la compuerta AND.
+6. La salida de la compuerta se conectó a un LED para visualizar el resultado lógico.
+7. Se agregó una resistencia en serie con el LED para limitar la corriente.
+8. Se realizaron pruebas activando diferentes combinaciones de los interruptores para verificar el comportamiento de la compuerta.
 
 
 ---
