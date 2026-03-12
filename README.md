@@ -89,16 +89,6 @@ Se realizó el montaje del circuito en una protoboard conectando:
 
 ---
 
-### Paso 4: Pruebas del circuito
-
-Se realizaron pruebas para verificar:
-
-- Funcionamiento de la onda cuadrada
-- Comportamiento de las compuertas lógicas
-- Tiempo de la señal
-
----
-
 ### Compuerta AND – Integrado 74HC08
 
 <p align="center">
@@ -162,6 +152,16 @@ Pasos de Montaje:
 <img src="imagenes/logica_not.png" width="500">
 </p>
 
+---
+
+### Paso 4: Pruebas del circuito
+
+Se realizaron pruebas para verificar:
+
+- Funcionamiento de la onda cuadrada
+- Comportamiento de las compuertas lógicas
+- Tiempo de la señal
+  
 ---
 
 ## Resultados
