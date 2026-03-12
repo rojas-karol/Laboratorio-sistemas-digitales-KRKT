@@ -141,6 +141,11 @@ Pasos de Montajee:
   <img src="imagenes/Logica_or.png" width="500">
 </p>
 
+### Compuerta NOT - Integrado 74HC04
+
+<p align="center">
+<img src="imagenes/compuerta_not.png" width="500">
+</p>
 
 ---
 
