@@ -105,6 +105,10 @@ Se realizaron pruebas para verificar:
   <img src="imagenes/compuerta_and.png" width="500">
 </p>
 
+Pasos de Montaje:
+
+1. Se conectó la fuente de alimentación de 5V a los rieles positivo y negativo de la protoboard.
+
 ---
 
 ## Resultados
