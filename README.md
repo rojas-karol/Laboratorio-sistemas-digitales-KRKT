@@ -1,9 +1,4 @@
-# Laboratorio-sistemas-digitales-KRKT
-Repositorio con el paso a paso del laboratorio en clase de sistemas digitales 
----
----
----
-# Laboratorio 1 - Sistemas Digitales
+# LABORATORIO - SISTEMAS DIGITALES
 Fundación Universitaria Compensar
 
 Estudiantes:
@@ -14,35 +9,35 @@ Kevin Alejandro Tacha Herrera
 
 ---
 
-## Introducción
+# INTRODUCCIÓN
 
-En este laboratorio se desarrolló un circuito digital con el objetivo de comprender el funcionamiento de compuertas lógicas y circuitos integrados.
+Los circuitos digitales constituyen una parte fundamental de la electrónica moderna, ya que permiten procesar información mediante señales binarias a través de diferentes dispositivos lógicos. Entre estos elementos se encuentran las compuertas lógicas y los circuitos temporizadores, los cuales son ampliamente utilizados para el control y generación de señales dentro de los sistemas electrónicos.
 
-Se implementó un circuito para generar una onda cuadrada de 2 segundos y se realizaron pruebas con compuertas lógicas utilizando circuitos integrados de la serie 74HC.
-
----
-
-## Objetivo del laboratorio
-
-Reconocer el funcionamiento de diferentes compuertas lógicas y analizar su comportamiento dentro de un circuito digital.
+A partir de estos principios, se desarrollaron diferentes montajes con el fin de analizar el comportamiento de circuitos digitales básicos. Entre ellos se implementó un circuito capaz de generar una onda cuadrada con un período aproximado de 2 segundos y se realizaron pruebas con compuertas lógicas utilizando circuitos integrados de la serie 74HC. Estas actividades permitieron observar el funcionamiento de dichos componentes y comprender su aplicación dentro de sistemas electrónicos digitales.
 
 ---
 
-## Materiales utilizados
+# OBJETIVO GENERAL
 
-- Circuito integrado 74HC04
-- Circuito integrado 74HC02
+Analizar el funcionamiento de circuitos digitales mediante la implementación de un generador de onda cuadrada y la experimentación con compuertas lógicas utilizando circuitos integrados de la serie 74HC, con el fin de comprender su comportamiento y verificar sus salidas lógicas.
+
+---
+# DESARROLLO DEL LABORATORIO
+
+## Primer punto - Oscilador astable con temporizador TL555
+En este primer punto se desarrolló un circuito oscilador multivibrador astable utilizando el temporizador TL555, con el objetivo de generar una señal de onda cuadrada con un período aproximado de 2 segundos.
+
+### Materiales para la creacion del oscilador astable:
+
+- Temporizafor TL555
 - Protoboard
-- Bateria 9V
-- LM 7806
-- TL 555
-- Bombillos LED
+- Batería de 9 V
 - Resistencias
-- Capacitores
-- Cables de conexión
-- Fuente de alimentación
+- Capacitor
+- Cables de conexión (jumpers)
+- Osciloscopio
+- Multímetro
   
-
   <table>
 <tr>
 <td align="center">
@@ -59,6 +54,24 @@ Reconocer el funcionamiento de diferentes compuertas lógicas y analizar su comp
 </tr>
 </table>
 
+El montaje inicia con una fuente de alimentación de 9 V, la cual pasa a través de un regulador de voltaje LM7805. Este regulador se utiliza para estabilizar la tensión y suministrar 5 V constantes al circuito integrado TL555, garantizando un funcionamiento adecuado del temporizador.El TL555 se configuró en modo astable, lo que significa que el circuito genera una señal oscilante continua sin necesidad de una señal externa de activación. En esta configuración, el circuito alterna constantemente entre estados alto y bajo, produciendo una onda cuadrada en la salida.
+
+El período de la señal generada dependio de los valores de las resistencias y el capacitor conectados al circuito. Estos componentes determinan el tiempo de carga y descarga del capacitor interno del temporizador, lo que controla la duración de los estados alto y bajo de la señal.
+
+Para determinar el tiempo de oscilación del circuito se utilizo la expresión del temporizador 555 en configuración astable:
+
+T = 0.693 (R_1 + 2R_2) C
+
+donde T corresponde al período de la señal, R₁ y R₂ representan las resistencias del circuito y C el capacitor conectado al temporizador. A partir de esta relación se seleccionan los valores de los componentes para obtener un período cercano a 2 segundos, que corresponde al tiempo deseado para la onda cuadrada generada en el laboratorio.
+
+Durante el funcionamiento del circuito, el capacitor se carga a través de las resistencias hasta alcanzar aproximadamente 2/3 del voltaje de alimentación, momento en el cual el temporizador cambia de estado y comienza el proceso de descarga hasta cerca de 1/3 del voltaje de alimentación. Este ciclo de carga y descarga se repite continuamente, generando la señal periódica observada en la salida del circuito.
+
+Finalmente, el comportamiento de la señal fue verificado mediante instrumentos de medición como osciloscopio y multímetro, conectados al montaje realizado en la protoboard, permitiendo observar la forma de la onda cuadrada y comprobar el período aproximado de la señal generada.
+[video
+
+Como resultado, la salida del circuito produce una onda cuadrada periódica, la cual puede ser observada mediante instrumentos de medición como un osciloscopio o un multímetro, permitiendo verificar que el período de la señal se aproxima a los 2 segundos establecidos en el diseño del laboratorio.
+
+[imagen oscilador
 
 ---
 
